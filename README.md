@@ -1,6 +1,6 @@
 📌 Jusin – Product Landing Page (Food & Beverage)
 
-<img src="https://raw.githubusercontent.com/reza-adityawar/Jusin---Product-Landing-Page-Food-Beverage-/refs/heads/main/Desktop%20-%201.png"> </img>
+<img src="https://raw.githubusercontent.com/reza-adityawar/Jusin---Product-Landing-Page-Food-Beverage-/refs/heads/main/Home-English-Version.png"> </img>
 
 Jusin – Product Landing Page is a clean and modern template designed specifically for Food & Beverage businesses. Perfect for juice brands, healthy drink stores, cold-pressed juice shops, cafés, small restaurants, or any F&B startup that wants a professional online presence from day one.
 

@@ -1,4 +1,4 @@
-📌 FREE Jusin – Product Landing Page (Food & Beverage) Wordpress Elementor Template
+📌 FREE Jusin – Product Landing Page (Food & Beverage) Wordpress Elementor Template <br>
 DEMO --> https://jusin.hoomix.me/
 
 <img src="https://raw.githubusercontent.com/reza-adityawar/Jusin---Product-Landing-Page-Food-Beverage-/refs/heads/main/Home-English-Version.png"> </img>
